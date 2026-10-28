@@ -52,7 +52,7 @@ The paper emphasizes that artificial intelligence should support and enhance hum
 
 ## Full Paper
 
-[Read the full research paper (PDF)](automation-vs-human-oversight.pdf)
+[Read the full research paper (PDF)](file:///C:/Users/Joana/Downloads/automation-vs-human-oversight.pdf.pdf)
 
 ## Keywords
 
